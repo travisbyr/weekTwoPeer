@@ -9,3 +9,8 @@ let firstname = "Travis";
 console.log(firstname);
 
 firstname = 'Josh';
+
+var anotherName = "John";
+console.log(anotherName);
+anotherName = "Henry";
+console.log(anotherName);
