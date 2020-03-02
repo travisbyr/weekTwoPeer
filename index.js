@@ -5,3 +5,7 @@ console.log("Sub:",num1 - num2);
 console.log("Div:",num1 / num2);
 console.log("Per:",num1 % num2);
 console.log("Mul:",num1 * num2);
+//dnlnk;nlv
+/*svasdvasdv
+vdvadvasdv
+*/
